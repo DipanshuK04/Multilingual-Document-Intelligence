@@ -1,10 +1,10 @@
 # Multilingual Document Intelligence
 
+ **Live Demo:** [Multilingual-Document-Intelligence](https://huggingface.co/spaces/iamDipanshuK04/Multilingual_Document_Intelligence)
+ 
 **Multilingual Document Intelligence using LangChain** is an AI-powered application that allows users to upload PDF documents, chat with them in natural language, and generate quizzes from uploaded notes. It is especially useful for students, researchers, and professionals who want to learn, revise, or extract insights from documents efficiently.
 
-##  Live Demo
 
- **Live Demo:** [Multilingual-Document-Intelligence](https://huggingface.co/spaces/iamDipanshuK04/Multilingual_Document_Intelligence)
 
 
 ##  Features
